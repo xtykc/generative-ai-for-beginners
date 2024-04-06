@@ -1,0 +1,7 @@
+name: <ms-genai>
+channels:  
+ - defaults
+dependencies:  
+- python=<python-3.11>  
+- openai  
+- python-dotenv
